@@ -12,5 +12,6 @@ package sample;
 public class Test {
     public void main(String[]args){
         System.out.println("Test 1 fxxk you");
+        System.out.println("Test 1 fxxk you");
     }
 }
